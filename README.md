@@ -34,5 +34,35 @@ This repository contains the work i done in visual basic .
 
   ![Screenshot 2025-04-30 062952](https://github.com/user-attachments/assets/008ae7f2-a112-44e1-932f-41ee7df0ea19)
 
-- ![image](https://github.com/user-attachments/assets/1bcad3af-7a26-494c-bf05-b90e4d175f3c)
+- Bitting App
+
+![Screenshot 2025-04-30 063158](https://github.com/user-attachments/assets/effd4566-1791-4879-9404-8db71bfcfa2e)
+
+-  Grade Q 1 Pratice
+
+  ![Screenshot 2025-04-30 063413](https://github.com/user-attachments/assets/770b7002-4ee9-4b8a-a059-9dba77bc0f53)
+
+  - Quiz 1
+
+    ![Screenshot 2025-04-30 063531](https://github.com/user-attachments/assets/d3458fb8-cf8b-48f5-87d3-1771d03ed9e8)
+
+- dice_statictice
+
+![Screenshot 2025-04-30 063746](https://github.com/user-attachments/assets/54cabde2-3b8a-4c9e-930b-9ee67f3170e6)
+
+- Flag quiz
+
+![Screenshot 2025-04-30 063928](https://github.com/user-attachments/assets/9fcd85ac-e4fb-4716-9753-be81e7f510c7)
+
+- Rectangle matrix
+
+![Screenshot 2025-04-30 064114](https://github.com/user-attachments/assets/a414a536-3bc2-458a-8f05-e6c36b62ac0d)
+
+- Class acount
+
+
+
+
+
+
 
