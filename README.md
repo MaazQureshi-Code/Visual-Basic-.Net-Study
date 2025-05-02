@@ -60,6 +60,23 @@ This repository contains the work i done in visual basic .
 
 - Class acount
 
+![Screenshot 2025-05-02 170154](https://github.com/user-attachments/assets/3e96c35f-d09b-4a7d-9478-1885da9ed375)
+
+- Calculater
+
+  ![Screenshot 2025-05-02 170402](https://github.com/user-attachments/assets/7a733dc1-1da8-4c02-ae61-2e91d6d5c2ba)
+
+- Quiz 3
+
+  ![Screenshot 2025-05-02 170630](https://github.com/user-attachments/assets/384ea538-e4eb-4e4d-9e30-e9dbc024ed2a)
+
+- Database
+
+  ![Screenshot 2025-05-02 170850](https://github.com/user-attachments/assets/057c0a29-4025-41dd-8783-9875bd12b7d1)
+
+  
+
+  
 
 
 
