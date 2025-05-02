@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35229.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Flag quiz", "Flag quiz\Flag quiz.vbproj", "{E4D9B0EC-D141-498F-B1BA-8CD7902E59E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4D9B0EC-D141-498F-B1BA-8CD7902E59E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D9B0EC-D141-498F-B1BA-8CD7902E59E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D9B0EC-D141-498F-B1BA-8CD7902E59E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D9B0EC-D141-498F-B1BA-8CD7902E59E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70FDEB6A-828B-4BE6-B575-9F27102B7EE6}
+	EndGlobalSection
+EndGlobal

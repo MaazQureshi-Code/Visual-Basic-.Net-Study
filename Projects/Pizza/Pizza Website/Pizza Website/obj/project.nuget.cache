@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PUuMiEV7gIjLjMUTNae8svIC/ERHX6JPn/GVHg8jptjWtiFuMoUKyDLDGrB+/0M6Ob0kX+f7Y/4N9CC4NR8M/g==",
+  "success": true,
+  "projectFilePath": "C:\\Vius basic project\\Projects\\Pizza\\Pizza Website\\Pizza Website\\Pizza Website.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

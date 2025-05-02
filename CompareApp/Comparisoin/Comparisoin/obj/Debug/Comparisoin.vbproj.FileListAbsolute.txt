@@ -1,0 +1,12 @@
+C:\Vius basic project\CompareApp\Comparisoin\Comparisoin\bin\Debug\Comparisoin.exe.config
+C:\Vius basic project\CompareApp\Comparisoin\Comparisoin\bin\Debug\Comparisoin.exe
+C:\Vius basic project\CompareApp\Comparisoin\Comparisoin\bin\Debug\Comparisoin.pdb
+C:\Vius basic project\CompareApp\Comparisoin\Comparisoin\bin\Debug\Comparisoin.xml
+C:\Vius basic project\CompareApp\Comparisoin\Comparisoin\obj\Debug\Comparisoin.vbproj.AssemblyReference.cache
+C:\Vius basic project\CompareApp\Comparisoin\Comparisoin\obj\Debug\Comparisoin.Form1.resources
+C:\Vius basic project\CompareApp\Comparisoin\Comparisoin\obj\Debug\Comparisoin.Resources.resources
+C:\Vius basic project\CompareApp\Comparisoin\Comparisoin\obj\Debug\Comparisoin.vbproj.GenerateResource.cache
+C:\Vius basic project\CompareApp\Comparisoin\Comparisoin\obj\Debug\Comparisoin.vbproj.CoreCompileInputs.cache
+C:\Vius basic project\CompareApp\Comparisoin\Comparisoin\obj\Debug\Comparisoin.exe
+C:\Vius basic project\CompareApp\Comparisoin\Comparisoin\obj\Debug\Comparisoin.xml
+C:\Vius basic project\CompareApp\Comparisoin\Comparisoin\obj\Debug\Comparisoin.pdb

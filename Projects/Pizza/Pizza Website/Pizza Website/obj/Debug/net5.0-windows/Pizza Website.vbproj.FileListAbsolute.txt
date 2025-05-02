@@ -1,0 +1,18 @@
+C:\Vius basic project\Projects\Pizza\Pizza Website\Pizza Website\bin\Debug\net5.0-windows\Pizza Website.exe
+C:\Vius basic project\Projects\Pizza\Pizza Website\Pizza Website\bin\Debug\net5.0-windows\Pizza Website.deps.json
+C:\Vius basic project\Projects\Pizza\Pizza Website\Pizza Website\bin\Debug\net5.0-windows\Pizza Website.runtimeconfig.json
+C:\Vius basic project\Projects\Pizza\Pizza Website\Pizza Website\bin\Debug\net5.0-windows\Pizza Website.runtimeconfig.dev.json
+C:\Vius basic project\Projects\Pizza\Pizza Website\Pizza Website\bin\Debug\net5.0-windows\Pizza Website.dll
+C:\Vius basic project\Projects\Pizza\Pizza Website\Pizza Website\bin\Debug\net5.0-windows\ref\Pizza Website.dll
+C:\Vius basic project\Projects\Pizza\Pizza Website\Pizza Website\bin\Debug\net5.0-windows\Pizza Website.pdb
+C:\Vius basic project\Projects\Pizza\Pizza Website\Pizza Website\obj\Debug\net5.0-windows\Pizza Website.vbproj.AssemblyReference.cache
+C:\Vius basic project\Projects\Pizza\Pizza Website\Pizza Website\obj\Debug\net5.0-windows\Pizza_Website.Form1.resources
+C:\Vius basic project\Projects\Pizza\Pizza Website\Pizza Website\obj\Debug\net5.0-windows\Pizza Website.vbproj.GenerateResource.cache
+C:\Vius basic project\Projects\Pizza\Pizza Website\Pizza Website\obj\Debug\net5.0-windows\Pizza Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vius basic project\Projects\Pizza\Pizza Website\Pizza Website\obj\Debug\net5.0-windows\Pizza Website.AssemblyInfoInputs.cache
+C:\Vius basic project\Projects\Pizza\Pizza Website\Pizza Website\obj\Debug\net5.0-windows\Pizza Website.AssemblyInfo.vb
+C:\Vius basic project\Projects\Pizza\Pizza Website\Pizza Website\obj\Debug\net5.0-windows\Pizza Website.vbproj.CoreCompileInputs.cache
+C:\Vius basic project\Projects\Pizza\Pizza Website\Pizza Website\obj\Debug\net5.0-windows\Pizza Website.dll
+C:\Vius basic project\Projects\Pizza\Pizza Website\Pizza Website\obj\Debug\net5.0-windows\ref\Pizza Website.dll
+C:\Vius basic project\Projects\Pizza\Pizza Website\Pizza Website\obj\Debug\net5.0-windows\Pizza Website.pdb
+C:\Vius basic project\Projects\Pizza\Pizza Website\Pizza Website\obj\Debug\net5.0-windows\Pizza Website.genruntimeconfig.cache

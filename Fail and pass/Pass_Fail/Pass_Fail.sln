@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35229.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Pass_Fail", "Pass_Fail\Pass_Fail.vbproj", "{2E554AE4-EF13-4DFF-962C-971C079F867B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E554AE4-EF13-4DFF-962C-971C079F867B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E554AE4-EF13-4DFF-962C-971C079F867B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E554AE4-EF13-4DFF-962C-971C079F867B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E554AE4-EF13-4DFF-962C-971C079F867B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4997D050-4FD6-4A44-9F84-DE0FE011B23A}
+	EndGlobalSection
+EndGlobal

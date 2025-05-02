@@ -1,0 +1,19 @@
+C:\Vius basic project\flag quiz\Flag quiz\Flag quiz\bin\Debug\net5.0-windows\Flag quiz.exe
+C:\Vius basic project\flag quiz\Flag quiz\Flag quiz\bin\Debug\net5.0-windows\Flag quiz.deps.json
+C:\Vius basic project\flag quiz\Flag quiz\Flag quiz\bin\Debug\net5.0-windows\Flag quiz.runtimeconfig.json
+C:\Vius basic project\flag quiz\Flag quiz\Flag quiz\bin\Debug\net5.0-windows\Flag quiz.runtimeconfig.dev.json
+C:\Vius basic project\flag quiz\Flag quiz\Flag quiz\bin\Debug\net5.0-windows\Flag quiz.dll
+C:\Vius basic project\flag quiz\Flag quiz\Flag quiz\bin\Debug\net5.0-windows\ref\Flag quiz.dll
+C:\Vius basic project\flag quiz\Flag quiz\Flag quiz\bin\Debug\net5.0-windows\Flag quiz.pdb
+C:\Vius basic project\flag quiz\Flag quiz\Flag quiz\obj\Debug\net5.0-windows\Flag quiz.vbproj.AssemblyReference.cache
+C:\Vius basic project\flag quiz\Flag quiz\Flag quiz\obj\Debug\net5.0-windows\Flag_quiz.Form1.resources
+C:\Vius basic project\flag quiz\Flag quiz\Flag quiz\obj\Debug\net5.0-windows\Flag_quiz.Resources.resources
+C:\Vius basic project\flag quiz\Flag quiz\Flag quiz\obj\Debug\net5.0-windows\Flag quiz.vbproj.GenerateResource.cache
+C:\Vius basic project\flag quiz\Flag quiz\Flag quiz\obj\Debug\net5.0-windows\Flag quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vius basic project\flag quiz\Flag quiz\Flag quiz\obj\Debug\net5.0-windows\Flag quiz.AssemblyInfoInputs.cache
+C:\Vius basic project\flag quiz\Flag quiz\Flag quiz\obj\Debug\net5.0-windows\Flag quiz.AssemblyInfo.vb
+C:\Vius basic project\flag quiz\Flag quiz\Flag quiz\obj\Debug\net5.0-windows\Flag quiz.vbproj.CoreCompileInputs.cache
+C:\Vius basic project\flag quiz\Flag quiz\Flag quiz\obj\Debug\net5.0-windows\Flag quiz.dll
+C:\Vius basic project\flag quiz\Flag quiz\Flag quiz\obj\Debug\net5.0-windows\ref\Flag quiz.dll
+C:\Vius basic project\flag quiz\Flag quiz\Flag quiz\obj\Debug\net5.0-windows\Flag quiz.pdb
+C:\Vius basic project\flag quiz\Flag quiz\Flag quiz\obj\Debug\net5.0-windows\Flag quiz.genruntimeconfig.cache

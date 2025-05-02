@@ -1,0 +1,19 @@
+C:\Vius basic project\Biting\Bitting App\Bitting App\bin\Debug\net5.0-windows\Bitting App.exe
+C:\Vius basic project\Biting\Bitting App\Bitting App\bin\Debug\net5.0-windows\Bitting App.deps.json
+C:\Vius basic project\Biting\Bitting App\Bitting App\bin\Debug\net5.0-windows\Bitting App.runtimeconfig.json
+C:\Vius basic project\Biting\Bitting App\Bitting App\bin\Debug\net5.0-windows\Bitting App.runtimeconfig.dev.json
+C:\Vius basic project\Biting\Bitting App\Bitting App\bin\Debug\net5.0-windows\Bitting App.dll
+C:\Vius basic project\Biting\Bitting App\Bitting App\bin\Debug\net5.0-windows\ref\Bitting App.dll
+C:\Vius basic project\Biting\Bitting App\Bitting App\bin\Debug\net5.0-windows\Bitting App.pdb
+C:\Vius basic project\Biting\Bitting App\Bitting App\obj\Debug\net5.0-windows\Bitting App.vbproj.AssemblyReference.cache
+C:\Vius basic project\Biting\Bitting App\Bitting App\obj\Debug\net5.0-windows\Bitting_App.Form1.resources
+C:\Vius basic project\Biting\Bitting App\Bitting App\obj\Debug\net5.0-windows\Bitting_App.Resources.resources
+C:\Vius basic project\Biting\Bitting App\Bitting App\obj\Debug\net5.0-windows\Bitting App.vbproj.GenerateResource.cache
+C:\Vius basic project\Biting\Bitting App\Bitting App\obj\Debug\net5.0-windows\Bitting App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vius basic project\Biting\Bitting App\Bitting App\obj\Debug\net5.0-windows\Bitting App.AssemblyInfoInputs.cache
+C:\Vius basic project\Biting\Bitting App\Bitting App\obj\Debug\net5.0-windows\Bitting App.AssemblyInfo.vb
+C:\Vius basic project\Biting\Bitting App\Bitting App\obj\Debug\net5.0-windows\Bitting App.vbproj.CoreCompileInputs.cache
+C:\Vius basic project\Biting\Bitting App\Bitting App\obj\Debug\net5.0-windows\Bitting App.dll
+C:\Vius basic project\Biting\Bitting App\Bitting App\obj\Debug\net5.0-windows\ref\Bitting App.dll
+C:\Vius basic project\Biting\Bitting App\Bitting App\obj\Debug\net5.0-windows\Bitting App.pdb
+C:\Vius basic project\Biting\Bitting App\Bitting App\obj\Debug\net5.0-windows\Bitting App.genruntimeconfig.cache

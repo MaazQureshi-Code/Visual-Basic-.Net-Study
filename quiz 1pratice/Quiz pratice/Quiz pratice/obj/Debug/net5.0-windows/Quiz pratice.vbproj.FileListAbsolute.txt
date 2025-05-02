@@ -1,0 +1,18 @@
+C:\Vius basic project\quizpratice\Quiz pratice\Quiz pratice\bin\Debug\net5.0-windows\Quiz pratice.exe
+C:\Vius basic project\quizpratice\Quiz pratice\Quiz pratice\bin\Debug\net5.0-windows\Quiz pratice.deps.json
+C:\Vius basic project\quizpratice\Quiz pratice\Quiz pratice\bin\Debug\net5.0-windows\Quiz pratice.runtimeconfig.json
+C:\Vius basic project\quizpratice\Quiz pratice\Quiz pratice\bin\Debug\net5.0-windows\Quiz pratice.runtimeconfig.dev.json
+C:\Vius basic project\quizpratice\Quiz pratice\Quiz pratice\bin\Debug\net5.0-windows\Quiz pratice.dll
+C:\Vius basic project\quizpratice\Quiz pratice\Quiz pratice\bin\Debug\net5.0-windows\ref\Quiz pratice.dll
+C:\Vius basic project\quizpratice\Quiz pratice\Quiz pratice\bin\Debug\net5.0-windows\Quiz pratice.pdb
+C:\Vius basic project\quizpratice\Quiz pratice\Quiz pratice\obj\Debug\net5.0-windows\Quiz pratice.vbproj.AssemblyReference.cache
+C:\Vius basic project\quizpratice\Quiz pratice\Quiz pratice\obj\Debug\net5.0-windows\Quiz_pratice.Form1.resources
+C:\Vius basic project\quizpratice\Quiz pratice\Quiz pratice\obj\Debug\net5.0-windows\Quiz pratice.vbproj.GenerateResource.cache
+C:\Vius basic project\quizpratice\Quiz pratice\Quiz pratice\obj\Debug\net5.0-windows\Quiz pratice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vius basic project\quizpratice\Quiz pratice\Quiz pratice\obj\Debug\net5.0-windows\Quiz pratice.AssemblyInfoInputs.cache
+C:\Vius basic project\quizpratice\Quiz pratice\Quiz pratice\obj\Debug\net5.0-windows\Quiz pratice.AssemblyInfo.vb
+C:\Vius basic project\quizpratice\Quiz pratice\Quiz pratice\obj\Debug\net5.0-windows\Quiz pratice.vbproj.CoreCompileInputs.cache
+C:\Vius basic project\quizpratice\Quiz pratice\Quiz pratice\obj\Debug\net5.0-windows\Quiz pratice.dll
+C:\Vius basic project\quizpratice\Quiz pratice\Quiz pratice\obj\Debug\net5.0-windows\ref\Quiz pratice.dll
+C:\Vius basic project\quizpratice\Quiz pratice\Quiz pratice\obj\Debug\net5.0-windows\Quiz pratice.pdb
+C:\Vius basic project\quizpratice\Quiz pratice\Quiz pratice\obj\Debug\net5.0-windows\Quiz pratice.genruntimeconfig.cache
